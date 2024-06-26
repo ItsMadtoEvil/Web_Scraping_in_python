@@ -1,9 +1,6 @@
 # Web_Scraping_in_python
-Here's a formatted version of the README file for your GitHub repository:
 
 ---
-
-# Wikipedia Table Scraper
 
 This repository contains a Python script that scrapes tables from Wikipedia pages. The script uses the BeautifulSoup library for parsing HTML and the Requests library for making HTTP requests.
 
